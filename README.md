@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/user-attachments/assets/b0ce9d08-fad1-4ff9-a87b-20172846d86d" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/user-attachments/assets/b0ce9d08-fad1-4ff9-a87b-20172846d86d" width="100" alt="Winppuccin Logo"/><br/>
 	<img src="https://github.com/user-attachments/assets/b0ce9d08-fad1-4ff9-a87b-20172846d86d" height="30" width="0px"/>
 	Winppuccin
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -23,6 +23,10 @@
 
 <p align="center">
     Winppuccin — <a href="https://github.com/catppuccin/">Catppuccin</a>-inspired themes for Windows, crafted for a cozy and consistent desktop experience.
+</p>
+
+<p align="center">
+  <img src="https://github.com/dratiux/Winppuccin/blob/main/assets/banners/window-themes.png" alt="Winppuccin Window Themes"/>
 </p>
 
 ## About
