@@ -5,27 +5,13 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-<h6 align="center">
-  <a href="https://github.com/dratiux/Winppuccin/edit/main/README.md#about">About</a>
-  ·
-  <a href="https://github.com/dratiux/Winppuccin/edit/main/README.md#softwares">Softwares</a>
-  ·
-  <a href="https://github.com/dratiux/Winppuccin/edit/main/README.md#setup">Setup</a>
-  ·
-  <a href="https://github.com/dratiux/Winppuccin/edit/main/README.md#wallpapers">Wallpapers</a>
-</h6>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
-
-&nbsp;
-
 <p align="center">
     Winppuccin — <a href="https://github.com/catppuccin/">Catppuccin</a>-inspired themes for Windows, crafted for a cozy and consistent desktop experience.
 </p>
 
-&nbsp;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 
 <p align="center">
   <img src="https://github.com/dratiux/Winppuccin/blob/main/assets/banners/window-themes.png" alt="Winppuccin Window Themes"/>
