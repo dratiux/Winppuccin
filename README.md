@@ -13,10 +13,6 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/dratiux/Winppuccin/blob/main/assets/banners/window-themes.png" alt="Winppuccin Window Themes"/>
-</p>
-
 ## About
 
 Winppuccin is a Windows customization project inspired by the <a href="https://github.com/catppuccin/">Catppuccin</a> color palette, focused on delivering a cozy, elegant, and visually consistent desktop experience.
