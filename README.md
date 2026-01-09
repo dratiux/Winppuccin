@@ -21,6 +21,21 @@ Winppuccin is a Windows customization project inspired by the <a href="https://g
 
 > _A curated list of Windows applications and tools themed or configured to match the Catppuccin aesthetic, ensuring visual harmony across your workflow._
 
+- **Rainmeter** — Desktop widgets and system information
+- **7tsp** — Icon theming for Windows
+- **SecureUxTheme** — Enables custom Windows themes
+- **ExplorerBlurMica** — Mica and blur effects for File Explorer
+- **OldNewExplorer** — Classic File Explorer behavior
+- **StartIsBack** — Classic Start menu styling and customization
+- **Flow Launcher** — Fast and minimal application launcher
+- **Vencord** — Customizable Discord client theming
+- **Komorebi** — Tiling window manager for Windows
+- **YASB** — Yet Another Status Bar for Komorebi
+- **Nexus** — Dock-style application launcher
+- **Nilesoft Shell** — Advanced context menu customization
+- **Stylus** — Custom CSS theming for websites and browser UI
+- **Spicetify** — Spotify client customization and theming
+
 ## Setup
 
 > _Step-by-step guides and configuration files to help you apply Winppuccin themes easily and achieve a clean, unified Windows setup._
