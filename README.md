@@ -41,7 +41,12 @@ Winppuccin is a Windows customization project inspired by the <a href="https://g
 > _Step-by-step guides and configuration files to help you apply Winppuccin themes easily and achieve a clean, unified Windows setup._
 
 ## Wallpapers
-> _A collection of carefully selected wallpapers that complement the Catppuccin color palette and complete the Winppuccin desktop look._
+
+A collection of carefully selected wallpapers designed to complement the Catppuccin color palette and complete the Winppuccin desktop look.
+
+### Download
+- [Gradient Wallpapers](./wallpapers/gradients)
+- [Cat Wallpapers](./wallpapers/cat)
 
 <p align="center">
 	<img src="https://github.com/dratiux/Winppuccin/blob/main/assets/footers/line.svg" />
