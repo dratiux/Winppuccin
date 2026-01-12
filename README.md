@@ -17,6 +17,10 @@
 
 Winppuccin is a Windows customization project inspired by the <a href="https://github.com/catppuccin/">Catppuccin</a> color palette, focused on delivering a cozy, elegant, and visually consistent desktop experience.
 
+<p align="center">
+  <img src="https://github.com/dratiux/Winppuccin/blob/main/assets/banners/banner.png" width="auto" />
+</p>
+
 ## Softwares
 
 > _A curated list of Windows applications and tools themed or configured to match the Catppuccin aesthetic, ensuring visual harmony across your workflow._
