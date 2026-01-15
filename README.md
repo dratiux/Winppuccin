@@ -14,7 +14,6 @@
 </p>
 
 ## About
-
 > _Winppuccin is a Windows customization project inspired by the <a href="https://github.com/catppuccin/">Catppuccin</a> color palette, focused on delivering a cozy, elegant, and visually consistent desktop experience._
 
 <p align="center">
@@ -22,7 +21,6 @@
 </p>
 
 ## Softwares
-
 > _A curated list of Windows applications and tools themed or configured to match the Catppuccin aesthetic, ensuring visual harmony across your workflow._
 
 - **Rainmeter** — Desktop widgets and system information
@@ -41,11 +39,27 @@
 - **Spicetify** — Spotify client customization and theming
 
 ## Setup
-
 > _Step-by-step guides and configuration files to help you apply Winppuccin themes easily and achieve a clean, unified Windows setup._
 
-## Wallpapers
+<details>
+	
+<summary><strong>Rainmeter</strong></summary>
+	
+- **Download & Install** [**Rainmeter**](https://github.com/rainmeter/rainmeter/releases).
+- **Rainmeter Skin** [`winppuccin-vis.rmskin`](rainmeter/winppuccin-vis.rmskin)
+	
+</details>
 
+<details>
+	
+<summary><strong>7tsp</strong></summary>
+	
+- **Download & Install** [**7tsp**](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422).
+- **Icon Themes** [`7tsp/`](7tsp)
+	
+</details>
+
+## Wallpapers
 > _A collection of carefully selected wallpapers designed to complement the Catppuccin color palette and complete the Winppuccin desktop look._
 
 <p align="center">
