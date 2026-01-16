@@ -102,6 +102,30 @@
 </details>
 
 <details>
+<summary><strong>Cursor Themes</strong></summary>
+
+### 1. Choose Your Cursor Theme
+
+Browse the [`cursors/`](cursors/) folder and pick your favorite variant, such as:
+
+- `qogir-catppuccin-macchiato`  
+- `qogir-catppuccin-peach`  
+- `capitaine-white`  
+- `capitaine`  
+…and more.
+
+### 2. Install the Cursor
+
+1. Open the folder of your chosen cursor theme.  
+2. Right-click on the file named `install.inf`.  
+3. Select **Install** from the context menu.  
+4. Open **Settings → Personalization → Themes → Mouse Cursor**.  
+5. In the **Pointers** tab, choose your new cursor scheme from the dropdown.  
+6. Click **Apply** and enjoy your new look!
+
+</details>
+
+<details>
 <summary><strong>StartIsBack</strong></summary>
 
 1. Download & Install [**StartIsBack**](https://www.startisback.com/).  
