@@ -120,7 +120,7 @@
 <summary><strong>Nilesoft Shell</strong></summary>
 
 1. Download & Install [**Nilesoft Shell**](https://nilesoft.org/download/shell).  
-2. Copy the file [`nilesoft/theme.nss`](nilesoft/theme.nss) into:  
+2. Copy the file [`nilesoft-shell/theme.nss`](nilesoft-shell/theme.nss) into:  
    ```
    C:\Program Files\Nilesoft Shell\imports\
    ```
