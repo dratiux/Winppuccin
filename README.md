@@ -221,6 +221,7 @@ For a personalized Catppuccin start page:
 ### Download
 - [Gradient Wallpapers](./wallpapers/gradients)
 - [Cat Wallpapers](./wallpapers/cat)
+- [More Wallpapers](https://github.com/orangci/walls-catppuccin-mocha)
 
 <p align="center">
 	<img src="https://github.com/dratiux/Winppuccin/blob/main/assets/footers/line.svg" />
