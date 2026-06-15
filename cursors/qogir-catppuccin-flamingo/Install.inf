@@ -1,0 +1,53 @@
+; Qogir-Recolored-Catppuccin-Flamingo Windows
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+cross.cur
+default.cur
+fleur.cur
+forbidden.cur
+half-busy.ani
+hand1.cur
+help.cur
+pencil.cur
+size_bdiag.cur
+size_fdiag.cur
+size_hor.cur
+size_ver.cur
+text.cur
+up-arrow.cur
+wait.ani
+
+[Strings]
+CUR_DIR       = "Cursors\Qogir-Recolored-Catppuccin-Flamingo Windows"
+SCHEME_NAME   = "Qogir-Recolored-Catppuccin-Flamingo Windows"
+pointer       = "default.cur"
+help          = "help.cur"
+work          = "half-busy.ani"
+busy          = "wait.ani"
+text          = "text.cur"
+unavailiable  = "forbidden.cur"
+vert          = "size_ver.cur"
+horz          = "size_hor.cur"
+dgn1          = "size_fdiag.cur"
+dgn2          = "size_bdiag.cur"
+move          = "fleur.cur"
+link          = "hand1.cur"
+cross         = "cross.cur"
+hand          = "pencil.cur"
+alternate     = "up-arrow.cur"
