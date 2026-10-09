@@ -257,3 +257,13 @@ For a personalized Catppuccin start page:
 <p align="center">
 	Copyright &copy; 2026 <a href="https://github.com/dratiux/Winppuccin" target="_blank">Winppuccin</a>
 </p>
+
+---
+
+<p align="center">
+  <br>
+  <sub>CRAFTED WITH CARE BY DRATIUX</sub>
+  <br><br>
+  <a href="https://paypal.me/dratiux"><img src="https://img.shields.io/badge/PayPal-F2F2F2?logo=paypal&logoColor=003087&style=flat" alt="PayPal"></a>
+  <a href="https://ko-fi.com/dratiux"><img src="https://img.shields.io/badge/Ko--fi-F2F2F2?logo=ko-fi&logoColor=FF5E5B&style=flat" alt="Ko-fi"></a>
+</p>
